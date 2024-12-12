@@ -43,3 +43,8 @@ For the server-side application, I used FastAPI with [uv  package manager](https
 --------------------
 
 One of the challenges I faced was creating a clipped image using a mask and the original image. But I persevered and figured it out using mathematical calculations and referencing the MDN documentation for canvas drawing.
+
+**Demo URL**
+------------------
+
+You can check out the demo [here](https://image-pipe-demo.vercel.app/)
